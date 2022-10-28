@@ -1,2 +1,6 @@
 This is test file
 This is test file2
+<<<<<<< HEAD
+This is test file3
+=======
+>>>>>>> 9833cef5ee0cbcb651c2f1efccf71228b92a78fc
